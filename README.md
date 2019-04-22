@@ -9,7 +9,7 @@ and enter
 
 `scrapy crawl aldi`
 
-the result should be output to a file named **text.txt**
+the result should be output to a file named [text.txt](python-scrapy/aldi/text.txt)
 
 ![FE93F85D-094E-4891-BA89-7B18BD7B4126.png](:storage/16de6377-443b-49ea-9289-dc6552da1a67/89adb4b0.png)
 
