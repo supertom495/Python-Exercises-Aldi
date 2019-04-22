@@ -13,8 +13,7 @@ the result should be output to a file named [text.txt](python-scrapy/aldi/text.t
 
 
 
-The source code is at
-`../Task/python-scrapy/aldi/aldi/spiders/aldi.py`
+The source code is at [aldi.py](python-scrapy/aldi/aldi/spiders/aldi.py)
 
 ---
 #### Exercise 2
