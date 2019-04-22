@@ -22,8 +22,8 @@ The source code is at
 
 ##### 2.1
 
-source code is located at folder 're' named [ParseInt.py](../re/ParseInt.py)
+source code is located at folder 're' named [ParseInt.py](Python-Exercises-Aldi/re/ParseInt.py)
 
 ##### 2.2
 
-source code is located at folder 're' named [ReformatScript.py](../re/ReformatScript.py)
+source code is located at folder 're' named [ReformatScript.py](Python-Exercises-Aldi/re/ReformatScript.py)
