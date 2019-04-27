@@ -1,0 +1,49 @@
+name: task
+channels:
+  - defaults
+dependencies:
+  - ca-certificates=2019.1.23=0
+  - certifi=2019.3.9=py36_0
+  - libcxx=4.0.1=hcfea43d_1
+  - libcxxabi=4.0.1=hcfea43d_1
+  - libedit=3.1.20181209=hb402a30_0
+  - libffi=3.2.1=h475c297_4
+  - ncurses=6.1=h0a44026_1
+  - openssl=1.1.1b=h1de35cc_1
+  - pip=19.0.3=py36_0
+  - python=3.6.8=haf84260_0
+  - readline=7.0=h1de35cc_5
+  - setuptools=41.0.0=py36_0
+  - sqlite=3.27.2=ha441bb4_0
+  - tk=8.6.8=ha441bb4_0
+  - wheel=0.33.1=py36_0
+  - xz=5.2.4=h1de35cc_4
+  - zlib=1.2.11=h1de35cc_3
+  - pip:
+    - asn1crypto==0.24.0
+    - attrs==19.1.0
+    - automat==0.7.0
+    - cffi==1.12.3
+    - constantly==15.1.0
+    - cryptography==2.6.1
+    - cssselect==1.0.3
+    - hyperlink==19.0.0
+    - idna==2.8
+    - incremental==17.5.0
+    - lxml==4.3.3
+    - parsel==1.5.1
+    - pyasn1==0.4.5
+    - pyasn1-modules==0.2.5
+    - pycparser==2.19
+    - pydispatcher==2.0.5
+    - pyhamcrest==1.9.0
+    - pyopenssl==19.0.0
+    - queuelib==1.5.0
+    - scrapy==1.6.0
+    - service-identity==18.1.0
+    - six==1.12.0
+    - twisted==19.2.0
+    - w3lib==1.20.0
+    - zope-interface==4.6.0
+prefix: /Users/Sean/anaconda3/envs/task
+
