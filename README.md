@@ -25,3 +25,7 @@ source code is located at folder 're' named [ParseInt.py](re/ParseInt.py)
 ##### 2.2
 
 source code is located at folder 're' named [ReformatScript.py](re/ReformatScript.py)
+
+---
+#### Note:
+If you have problem running the code, please use the environment from [environment.yml](python-scrapy/aldi/environment.yml)
